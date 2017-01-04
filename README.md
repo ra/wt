@@ -1,2 +1,2 @@
 # wt
-with travis
+with travis and its config
